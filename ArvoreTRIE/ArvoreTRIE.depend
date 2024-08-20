@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1723847545 source:c:\users\gabi\desktop\arvoretrie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"ArvoreTRIE.h"
+
+1723844081 c:\users\gabi\desktop\arvoretrie\arvoretrie.h
+	"TAD_ArvoreTRIE.h"
+	"Operacoes/NohTRIE.h"
+	"Operacoes/imprimirArvoreTRIE.h"
+	"Operacoes/incluirInfoTRIE.h"
+	"Operacoes/buscarInfoTRIE.h"
+	"Operacoes/excluirInfoTRIE.h"
+
+1723847009 c:\users\gabi\desktop\arvoretrie\tad_arvoretrie.h
+
+1723847030 c:\users\gabi\desktop\arvoretrie\operacoes\nohtrie.h
+
+1723846678 c:\users\gabi\desktop\arvoretrie\operacoes\imprimirarvoretrie.h
+
+1723847507 c:\users\gabi\desktop\arvoretrie\operacoes\incluirinfotrie.h
+
+1723844908 c:\users\gabi\desktop\arvoretrie\operacoes\buscarinfotrie.h
+
+1723846369 c:\users\gabi\desktop\arvoretrie\operacoes\excluirinfotrie.h
+
