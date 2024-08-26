@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1724631380 source:c:\users\gabi\desktop\arvoretrie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"ArvoreTRIE.h"
+
+1724631395 c:\users\gabi\desktop\arvoretrie\arvoretrie.h
+	<stdlib.h>
+	<math.h>
+	"TAD_ArvoreTRIE.h"
+	"Operacoes/NohTRIE.h"
+	"Operacoes/imprimirArvoreTRIE.h"
+	"Operacoes/incluirInfoTRIE.h"
+	"Operacoes/buscarInfoTRIE.h"
+	"Operacoes/excluirInfoTRIE.h"
+	"Operacoes/buscarSugestoesTRIE.h"
+	"Operacoes/corrigirPalavra.h"
+	"Operacoes/distanciaLevenshtein.h"
+	"Operacoes/carregarDicionario.h"
+
+1724631696 c:\users\gabi\desktop\arvoretrie\tad_arvoretrie.h
+
+1724173541 c:\users\gabi\desktop\arvoretrie\operacoes\nohtrie.h
+
+1723846678 c:\users\gabi\desktop\arvoretrie\operacoes\imprimirarvoretrie.h
+
+1724173611 c:\users\gabi\desktop\arvoretrie\operacoes\incluirinfotrie.h
+
+1724173020 c:\users\gabi\desktop\arvoretrie\operacoes\buscarinfotrie.h
+
+1724173686 c:\users\gabi\desktop\arvoretrie\operacoes\excluirinfotrie.h
+
+1724630377 c:\users\gabi\desktop\arvoretrie\operacoes\buscarsugestoestrie.h
+
+1724630511 c:\users\gabi\desktop\arvoretrie\operacoes\corrigirpalavra.h
+
+1724630708 c:\users\gabi\desktop\arvoretrie\operacoes\distancialevenshtein.h
+
+1724631374 c:\users\gabi\desktop\arvoretrie\operacoes\carregardicionario.h
+
